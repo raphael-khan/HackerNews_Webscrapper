@@ -9,3 +9,8 @@ soup = BeautifulSoup(response.text, 'html.parser')
 links = print(soup.select('.titlelink')[0])
 
 votes = print(soup.select('.score')[0])
+
+def create_custom_news(links, votes):
+    news = []
+    for 
+    return news
