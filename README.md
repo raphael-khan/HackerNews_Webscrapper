@@ -1,4 +1,4 @@
-# web_scrapper_project
+# HackerNews Webscrapper
 
 Web scrapping Hacker News using Beautiful Soup.
 Loops through the titlelink and subtext classes and extracts the text, links and votes. 
