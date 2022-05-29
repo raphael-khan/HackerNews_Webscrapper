@@ -1,4 +1,4 @@
-# HackerNews Webscrapper - backenc only. 
+# HackerNews Webscrapper - backend only. 
 
 Web scrapping Hacker News using Beautiful Soup.
 Loops through the titlelink and subtext classes and extracts the text, links and votes. 
